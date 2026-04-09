@@ -125,3 +125,7 @@ Top features influencing churn:
 ### Install dependencies:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
+
+jupyter notebook churn_prediction.ipynb
+
+
